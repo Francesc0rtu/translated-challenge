@@ -1,7 +1,7 @@
 # translated-challenge
 Exercise for translated challenge
 ## Exercise 1
-See [exercise1](Challenge.ipynb)
+See [Challenge](Challenge.ipynb)
 
 ## Exercise 2
 ``` 
